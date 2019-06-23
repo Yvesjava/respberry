@@ -1,0 +1,14 @@
+
+
+cd /etc/profile.d/
+ls
+sudo mv sshpwd.sh sshpwd.sh.bak
+
+cd /etc
+cd LXDE-pi/
+ls
+sudo mv sshpwd.sh sshpwd.sh.bak
+
+
+
+
